@@ -1,4 +1,9 @@
+<div align="center">
+
+![icon](icon.png)
 # ArknightsResources
+<div align="justify">  
+
 关于ArknightsResources的一些东西
 
 [![Build Status](https://dev.azure.com/LiveBakaStudio/ArknightsResources/_apis/build/status/ArknightsResources?branchName=master)](https://dev.azure.com/LiveBakaStudio/ArknightsResources/_build/latest?definitionId=1&branchName=master)
