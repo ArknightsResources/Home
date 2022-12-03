@@ -8,6 +8,8 @@ ArknightsResources的项目主页
 
 您可以在这里得到关于ArknightsResources的常规帮助。
 
+ArknightsResources项目目前处于Alpha阶段，API可能会有较大的改动，敬请谅解。
+
 ## 构建
 * Visual Studio 2019及以上版本
 * .NET CLI  
