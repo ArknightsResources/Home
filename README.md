@@ -11,7 +11,7 @@ ArknightsResources的项目主页
 ArknightsResources项目目前处于Alpha阶段，API可能会有较大的改动，敬请谅解。
 
 ## 构建
-* Visual Studio 2019及以上版本
+* Visual Studio 2022及以上版本
 * .NET CLI  
 
 ## 项目目标框架
